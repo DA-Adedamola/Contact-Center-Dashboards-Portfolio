@@ -4,7 +4,7 @@ Dynamic Power BI dashboards showcasing contact center performance; tracking 3,36
 
 Welcome to my dashboard showcase! These dashboards provide key insights into customer support performance, agent productivity, and overall service quality across multiple touchpoints.
 
-## 1️⃣ **Dashboard – Contact Center Overview | October 2024**
+1️⃣ **Dashboard – Contact Center Overview | October 2024**
 
 ![Contact Center Dashboard 1](./DEBA4CC6-32ED-4F2B-A282-307E2181E931.jpeg)
 
@@ -14,7 +14,7 @@ Welcome to my dashboard showcase! These dashboards provide key insights into cus
 - WhatsApp is the dominant support channel (69.58%)
 - Top 3 Interaction Types: Enquiries, Complaints, Requests
 
-## 2️⃣ **Dashboard – Daily Trends and Interaction Distribution**
+2️⃣ **Dashboard – Daily Trends and Interaction Distribution**
 
 ![Contact Center Dashboard 2](./7136B958-F7C7-45B2-828A-AD9EC78EE85E.jpeg)
 
